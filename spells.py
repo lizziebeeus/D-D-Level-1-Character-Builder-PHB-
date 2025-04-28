@@ -1,8 +1,3 @@
-'''clerics do not have enough combat classed cantrips in phb. probably other classes have the same issue. will have to rework to figure out how to fix.
-'''
-
-
-
 import csv
 import random
 from flowchart import Flowchart
