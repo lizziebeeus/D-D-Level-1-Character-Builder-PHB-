@@ -40,7 +40,7 @@ def main():
     for first in first_list:
         print(f"Name: {first['name']}\nDescription: {first['description']}")
 
-    """ finished with setting class, race, stats. need to add spell picker flowchart for casters, possibly add something to calculate saving throws and proficiency bonus"""
+    """ Possible updates include adding something to calculate saving throws and proficiency bonus"""
 
 
 
